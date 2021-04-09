@@ -1,0 +1,12 @@
+Which of the following values are valid keys for an object?
+
+    1 --Valid
+    '1' --Valid
+    undefined --Invalid
+    'hello world' --Valid
+    true --Invalid
+    'true' --Valid
+
+    //From solution all are valid keys due to JavaScript coercing non-string values to strings
+    //meaning that while 1 and '1' are both valid, they will represent the same key
+
