@@ -1,0 +1,3 @@
+Exception handling is used catch and deal with errors in a way that provides an indicator that
+an error has occurred while allowing the code to continue to run in the event an error does occur.
+This is done by using JavaScripts try/catch statement.
